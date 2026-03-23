@@ -1,6 +1,6 @@
 # 💫 About Me:
 Juego minecraft y lol mucho 
-Activo en redes sociales y con ganas de hablar con gente nueva
+ activo en redes sociales y con ganas de hablar con gente nueva
 
 
 ## 🌐 Socials:
