@@ -12,6 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yainfa-silver&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-https://ghstats.dev/api/card?username=Yainfa-silver&theme=sakura
+![](https://ghstats.dev/api/card?username=Yainfa-silver&theme=sakura)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
