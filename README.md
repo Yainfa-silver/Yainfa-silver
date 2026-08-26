@@ -1,5 +1,5 @@
 # 💫 About Me:
-Juego minecraft y lol mucho<br>Activo en redes sociales y con ganas de hablar con gente nueva 
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/silver._.0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siver0_0q) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@silverQ_0) 
@@ -12,6 +12,6 @@ Juego minecraft y lol mucho<br>Activo en redes sociales y con ganas de hablar co
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yainfa-silver&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yainfa-silver&icon=0&color=0)](https://visitcount.itsvg.in)
+https://ghstats.dev/api/card?username=Yainfa-silver&theme=sakura
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
